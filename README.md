@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Upen!
 - 👀 I’m interested in creating softwares with easy to understand and intutive user experience.
-- 🌱 I’m currently learning Tensorflow.
 - 📫 Email me at dhakal.upenn@gmail.com if you have any questions or are interested in collaboration. 
 
 <!---
