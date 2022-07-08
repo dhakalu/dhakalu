@@ -2,7 +2,5 @@
 - 👀 I’m interested in creating softwares with easy to understand and intutive user experience.
 - 📫 Email me at dhakal.upenn@gmail.com if you have any questions or are interested in collaboration. 
 
-<!---
-dhakalu/dhakalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalu&layout=compact&langs_count=8)
