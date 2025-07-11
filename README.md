@@ -1,7 +1,7 @@
 # Hi there, I'm Upen Dhakal 👋
 
 ## About Me
-I'm a passionate software engineer with expertise in building scalable applications and solving complex technical challenges. I enjoy working with modern technologies and contributing to open-source projects.
+I'm a passionate software engineer with expertise in building scalable applications and solving complex technical challenges. I enjoy working with modern technologies and am eager to contribute to the open-source community.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, Java, TypeScript, Go
