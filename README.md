@@ -4,16 +4,14 @@
 I'm a passionate software engineer with expertise in building scalable applications and solving complex technical challenges. I enjoy working with modern technologies and am eager to contribute to the open-source community.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, Java, TypeScript, Go
-- **Frameworks**: React, Node.js, Spring Boot, Express
+- **Current Languages**: Python, TypeScript, Go
+- **Frameworks**: pytorch, React, Express, chi (Go)
 - **Databases**: PostgreSQL, DynamoDB, Redis
 - **Cloud**: AWS, Docker, Kubernetes, Azure
 - **Tools**: Terraform, Github Actions
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalu&hide=javascript,css,scss,html&theme=tokyonight&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhakalu&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 🌱 Currently Learning
 - Machine Learning & AI
