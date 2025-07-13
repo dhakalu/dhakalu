@@ -10,13 +10,9 @@ I'm a passionate software engineer with expertise in building scalable applicati
 - **Cloud**: AWS, Docker, Kubernetes, Azure
 - **Tools**: Terraform, Github Actions
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalu&hide=javascript,css,scss,html&theme=tokyonight&layout=compact)
-
 ## 🌱 Currently Learning
 - Machine Learning & AI
 - Distributed Systems Architecture
-
 
 ## 💼 Professional Experience
 - Building robust backend systems
@@ -28,6 +24,3 @@ I'm a passionate software engineer with expertise in building scalable applicati
 ## 📫 Let's Connect
 - **LinkedIn**: [linkedin.com/in/udaydhakal](https://linkedin.com/in/dhakalu)
 - **Email**: dhakal.upenn@gmail.com.com
-
----
-⭐️ From [dhakalu](https://github.com/dhakalu)
